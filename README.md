@@ -2,7 +2,7 @@
 <img src="https://github.com/Jamersonbmelo/portfolio/blob/31214e1c56d9a00ec43a71e885013bca73bf27ec/img/logo-principal.png">
 
 ### Oi 👋
-Sou recém-formado em Fullstack na B7web e na Dio em busca de oportunidades e colaboração em projetos relacionados à desolvimento de sistema, site e mobile e aprendizado profundo.
+Sou recém-formado em Fullstack na B7web e na Dio cursos online em busca de oportunidades e colaboração em projetos relacionados à desolvimento de sistema, site e aprendizado profundo, para melhorar ainda mais meu codigo e criar um network resolvi fazer um curso presencial no SENAC da minha cidade.
 - 🔭 Atualmente, estou estagiando presencialmente na SEMDEC (além disso, estou aprimorando minhas estruturas de codigo e habilidades de algoritmos regularmente).
 - 🌱 Atualmente estou aprendendo técnicas de javascript, python e seus respectivos framework.
 - 🤝 Estou procurando colaborar em projetos internos do curso presencial da qual eu faço no senac e aprendizado.
