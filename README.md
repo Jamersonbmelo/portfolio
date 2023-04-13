@@ -1,11 +1,11 @@
 # portfolio
 <img src="https://github.com/Jamersonbmelo/portfolio/blob/31214e1c56d9a00ec43a71e885013bca73bf27ec/img/logo-principal.png">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Oi 👋
+Sou recém-formado em Fullstack na B7web e na Dio em busca de oportunidades e colaboração em projetos relacionados à desolvimento de sistema, site e mobile e aprendizado profundo.
+- 🔭 Atualmente, estou estagiando presencialmente na SEMDEC (além disso, estou aprimorando minhas estruturas de codigo e habilidades de algoritmos regularmente).
+- 🌱 Atualmente estou aprendendo técnicas de javascript, python e seus respectivos framework.
+- 🤝 Estou procurando colaborar em projetos internos do curso presencial da qual eu faço no senac e aprendizado.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jamersonbmelo)
 
